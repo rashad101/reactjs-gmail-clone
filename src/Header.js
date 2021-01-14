@@ -11,6 +11,7 @@ function Header() {
   return (
     <div className="header">
       <div className="header__left">
+        <title>Gmail</title>
         <IconButton>
           <MenuIcon />
         </IconButton>
